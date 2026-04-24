@@ -31,10 +31,10 @@ int main(){
     avg_proptery_val = total_property_value/amt_properties;
     
    vector<Property> Rarity = {
-    {"Common", 0, 0.3f, 0.0f},
-    {"Uncommon", 0, 0.5f, 0.0f},
-    {"Rare", 0, 0.8f, 0.0f},
-    {"Legendary", 0, 2.0f, 0.0f}
+    {"Common", 0, 0.3f, 0.0},
+    {"Uncommon", 0, 0.5f, 0.0},
+    {"Rare", 0, 0.8f, 0.0},
+    {"Legendary", 0, 2.0f, 0.0}
 };
 
     int added_property = 0;
