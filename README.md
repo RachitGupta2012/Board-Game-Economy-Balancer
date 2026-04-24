@@ -34,5 +34,7 @@ This makes sure all properties together equal the target value.
 * **Standard:** C++17  
 * **Compiler:** GCC or Clang  
 * **Built on:** MacOS 26.2, using VS Code
+  
+* <img width="1710" height="1073" alt="image" src="https://github.com/user-attachments/assets/0335c1f5-c122-4325-b0de-b67b94b436d9" />
 
 This tool is useful for designing Monopoly-style or custom board games.
