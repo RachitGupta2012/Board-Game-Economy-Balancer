@@ -4,6 +4,7 @@ A simple C++ tool to help design balanced board game economies.
 It calculates fair property prices so the total value of all properties matches a target economy.
 
 *[Version 1]*
+* 24.04.2026 
 
 ## Features
 * Rarity-based pricing (Common, Uncommon, Rare, Legendary)  
